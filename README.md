@@ -23,7 +23,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
-> Related Projects : [(2024.05) Instagram Portfolio](https://samdo3.github.io)
+> Related Projects : [(2024.05) Instagram Portfolio](https://samdo3.github.io) [(2024.11) BeACloudengineer](https://github.com/Samdo3/BeACloudengineer) 
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
