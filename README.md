@@ -14,7 +14,7 @@
 
 ## ✅ Tech Stack
 <!--파이썬 마크 표시-->
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>  
 <br>
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>      
 > Related Projects : [(2023.11) KU_Sejong_Navigator](https://github.com/Samdo3/KU_Sejong_Navigator)
@@ -24,6 +24,10 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 > Related Projects : [(2024.05) Instagram Portfolio](https://samdo3.github.io)
+
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+
+> Related Projects : [(2024.11) StockPriceForecast_Regression_ML](https://github.com/Samdo3/StockPriceForecast_Regression_ML)
 
 <br>
 <br>
