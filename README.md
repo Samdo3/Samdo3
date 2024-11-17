@@ -13,20 +13,24 @@
 <br>
 
 ## ✅ Tech Stack
-<!--파이썬 마크 표시-->
+<!--c++ 마크 표시-->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>  
 <br>
+<!--flutter 마크 표시-->
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>      
 > Related Projects : [(2023.11) KU_Sejong_Navigator](https://github.com/Samdo3/KU_Sejong_Navigator)
 <br>
+<!--html,css,js 마크 표시-->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 > Related Projects : [(2024.05) Instagram Portfolio](https://samdo3.github.io) [(2024.11) BeACloudengineer](https://github.com/Samdo3/BeACloudengineer) 
 
+<!-- python 마크 표시-->
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+   
 > Related Projects : [(2024.11) StockPriceForecast_Regression_ML](https://github.com/Samdo3/StockPriceForecast_Regression_ML)
 
 <br>
