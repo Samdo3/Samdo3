@@ -33,7 +33,15 @@
    
 > Related Projects :
 [(2024.11) StockPriceForecast_Regression_ML](https://github.com/Samdo3/StockPriceForecast_Regression_ML)
+
+<a href="https://azure.microsoft.com/ko-kr/products/ai-services/openai-service" target="_blank"><img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"></a>
+<a href="https://fastapi.tiangolo.com/ko/" target="_blank"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+   
+> Related Projects :
 [(2024.12) Immigration_support_Chatbot](https://github.com/Samdo3/Immigration_support_Chatbot)
+
+
 
 <br>
 <br>
