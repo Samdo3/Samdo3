@@ -39,7 +39,7 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
    
 > Related Projects :
-[(2024.12) Immigration_support_Chatbot](https://github.com/Samdo3/Immigration_support_Chatbot)
+[(2024.12) Immigration_support_Chatbot](https://github.com/Samdo3/Immigration_support_Chatbot)   
 [(2025.02) FootTrafficReport](https://github.com/MSAI3rdTeam5/FootTrafficReport)
 
 
