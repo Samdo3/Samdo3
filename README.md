@@ -40,6 +40,7 @@
    
 > Related Projects :
 [(2024.12) Immigration_support_Chatbot](https://github.com/Samdo3/Immigration_support_Chatbot)
+[(2025.02) FootTrafficReport](https://github.com/MSAI3rdTeam5/FootTrafficReport)
 
 
 
