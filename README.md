@@ -36,10 +36,20 @@
 
 <a href="https://azure.microsoft.com/ko-kr/products/ai-services/openai-service" target="_blank"><img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"></a>
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
    
 > Related Projects :   
 [(2024.12) Immigration_support_Chatbot](https://github.com/Samdo3/Immigration_support_Chatbot)   
+[(2025.02) FootTrafficReport](https://github.com/MSAI3rdTeam5/FootTrafficReport)
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"></a>
+
+> Related Projects :   
 [(2025.02) FootTrafficReport](https://github.com/MSAI3rdTeam5/FootTrafficReport)
 
 
