@@ -9,6 +9,8 @@
 
 <!--버튼 표시-->
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
+
+
 <br>
 <br>
 
@@ -68,6 +70,41 @@
 <br>
 
 ---
+
+## 📚 Paper Reading List
+최근 공부하거나 읽은 논문들을 간단히 나열했습니다.
+
+### Language Models
+1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)  
+2. [Deep learning](https://www.nature.com/articles/nature14539)  
+3. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
+4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  
+5. [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+6. [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
+7. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
+8. [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)  
+9. [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)  
+10. [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)  
+11. The Llama 3 Herd of Models  
+12. [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/abs/1909.05858)  
+13. [Locally Typical Sampling](https://arxiv.org/abs/2302.01318)
+
+### Reinforcement Learning
+1. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+
+### Survey & Misc. Topics
+1. [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2307.03179)  
+2. [A Survey on Hallucination in NLG](https://arxiv.org/abs/2211.06407)  
+3. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+
+> **더 자세히 보기**  
+> **[Paper-Reading-List Repository 바로가기](https://github.com/Samdo3/Paper-Reading-List)**
+
+<br>
+
+---
+
+
 
 
 ## 🌐 Contact
