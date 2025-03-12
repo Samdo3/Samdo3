@@ -32,6 +32,8 @@
 <!-- python 마크 표시-->
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
    
 > Related Projects :
 [(2024.11) StockPriceForecast_Regression_ML](https://github.com/Samdo3/StockPriceForecast_Regression_ML)
