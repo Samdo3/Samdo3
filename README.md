@@ -85,7 +85,7 @@
 8. [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)  
 9. [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)  
 10. [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)  
-11. The Llama 3 Herd of Models  
+11. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 12. [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/abs/1909.05858)  
 13. [Locally Typical Sampling](https://arxiv.org/abs/2302.01318)
 
@@ -96,6 +96,8 @@
 1. [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2307.03179)  
 2. [A Survey on Hallucination in NLG](https://arxiv.org/abs/2211.06407)  
 3. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+
+
 
 > **더 자세히 보기**  
 > **[Paper-Reading-List Repository 바로가기](https://github.com/Samdo3/Paper-Reading-List)**
