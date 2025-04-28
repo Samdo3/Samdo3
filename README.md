@@ -1,8 +1,6 @@
 <!--헤더 표시-->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=tokyonight&height=150&text=SeongBeen's%20GitHub🧑‍💻&fontSize=45&animation=twinkling)
 
-<!--방문자수 표시-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamdo3&count_bg=%237EAEE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--프로필 카드 표시-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdo3&count_private=true&show_icons=true&theme=tokyonight)-->
