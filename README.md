@@ -10,7 +10,7 @@
     <tr style="border: none;">
       <td style="width: 50%; text-align: center; border: none;">
         <a href="https://dacon.io/myprofile/516971/competition">
-          <img src="https://dacon.io/static/img/medals/gold.svg" width="100" alt="Gold Tier"/>
+          <img src="https://dacon.io/static/img/tier/gold.svg" width="100" alt="Gold Tier"/>
         </a>
         <br>
         <strong>Overall Rank: 131</strong> <br> (Top 0.1%)
@@ -33,44 +33,44 @@
   <h3 style="border-bottom: 1px solid #2391d9; display: inline-block; padding-bottom: 3px;">주요 대회 실적</h3>
 </div>
 
-<details>
+<details open>
 <summary><strong>✅ 완료된 대회 (Completed Competitions)</strong></summary>
 <table width="100%">
   <thead>
     <tr>
       <th align="center">대회명</th>
-      <th align="center">분야</th>
+      <th align-="center">분야</th>
       <th align="center">성적 (순위/참가자)</th>
       <th align="center">백분율</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236127/overview/description">문맥 기반 문장 순서 예측</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236489/overview/description">문맥 기반 문장 순서 예측</a></td>
       <td align="center">NLP, LLM</td>
       <td align="center"><b>4 / 204</b></td>
       <td align="center"><b>Top 1.96%</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236203/overview/description">신용카드 고객 세그먼트 분류</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236460/overview/description">신용카드 고객 세그먼트 분류</a></td>
       <td align="center">정형, 분류</td>
       <td align="center"><b>8 / 236</b></td>
       <td align="center"><b>Top 3.38%</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/hackathon/236222/overview/description">Python 기업 성공 확률 예측</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">Python 기업 성공 확률 예측</a></td>
       <td align="center">정형, 회귀</td>
       <td align="center"><b>8 / 952</b></td>
       <td align="center"><b>Top 0.84%</b></td>
     </tr>
     <tr>
-      <td align="center">HAI(하이)! - Hecto AI Challenge</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">HAI(하이)! - Hecto AI Challenge</a></td>
       <td align="center">비전, 분류</td>
       <td align="center">44 / 748</td>
       <td align="center">Top 5.88%</td>
     </tr>
     <tr>
-      <td align="center">제4회 K-water AI 경진대회</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236423/overview/description">제4회 K-water AI 경진대회</a></td>
       <td align="center">시계열, 이상탐지</td>
       <td align="center">115 / 486</td>
       <td align="center">Top 23.6%</td>
@@ -91,22 +91,22 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">Boost up AI 2025 : 신약 개발</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236518/overview/description">Boost up AI 2025 : 신약 개발</a></td>
       <td align="center">정형, 회귀, 바이오</td>
       <td align="center"><b>5 / 739</b></td>
     </tr>
     <tr>
-      <td align="center">데이콘 Basic 스트레스 지수 예측</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236526/overview/description">데이콘 Basic 스트레스 지수 예측</a></td>
       <td align="center">정형, 회귀</td>
       <td align="center">14 / 221</td>
     </tr>
      <tr>
-      <td align="center">Jump AI(.py) 2025 : 제 3회 AI 신약개발</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236530/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발</a></td>
       <td align="center">정형, 회귀, 바이오</td>
       <td align="center">60 / 257</td>
     </tr>
     <tr>
-      <td align="center">2025 전력사용량 예측</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236531/overview/description">2025 전력사용량 예측</a></td>
       <td align="center">시계열, 에너지</td>
       <td align="center">109 / 269</td>
     </tr>
