@@ -166,21 +166,6 @@
 </div>
 
 <div align="center">
-  <h3><a href="https://github.com/Samdo3/Immigration_support_Chatbot">이민자를 위한 한국 법률 번역 챗봇</a> (2024.12)</h3>
-  <p>Fine-tuning과 RAG 기술을 접목하여 한국 법률 정보를 다국어로 제공하는 AI 챗봇</p>
-  <p>
-    <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=azure-functions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </p>
-  <hr>
-</div>
-
-
-<div align="center">
   <h3><a href="https://github.com/MSAI3rdTeam5/FootTrafficReport">CV 기반 유동인구 분석 및 리포팅 시스템</a> (2025.02)</h3>
   <p>YOLO 모델로 유동인구를 감지하고, LLM을 통해 분석 보고서 및 대시보드를 생성하는 풀스택 프로젝트</p>
   <p>
@@ -191,6 +176,20 @@
     <b>Database:</b> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
     <br>
     <b>AI Models:</b> <img src="https://img.shields.io/badge/YOLO-4B0082?style=flat-square&logo=yolo&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_(GPT)-412991?style=flat-square&logo=openai&logoColor=white"/>
+  </p>
+  <hr>
+</div>
+
+<div align="center">
+  <h3><a href="https://github.com/Samdo3/Immigration_support_Chatbot">이민자를 위한 한국 법률 번역 챗봇</a> (2024.12)</h3>
+  <p>Fine-tuning과 RAG 기술을 접목하여 한국 법률 정보를 다국어로 제공하는 AI 챗봇</p>
+  <p>
+    <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </p>
   <hr>
 </div>
