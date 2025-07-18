@@ -34,7 +34,7 @@
 </div>
 
 <details open>
-<summary><strong>✅ 완료된 대회 (Completed Competitions)</strong></summary>
+<summary><strong>✅ 데이콘 완료된 대회 (Completed Competitions)</strong></summary>
 <table width="100%">
   <thead>
     <tr>
@@ -119,6 +119,42 @@
   </tbody>
 </table>
 </details>
+
+<details open>
+<summary><strong>챌린지: 캐글 대회 (Kaggle Challenges)</strong></summary>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">대회명</th>
+      <th align="center">분야</th>
+      <th align="center">성적 (순위/참가팀)</th>
+      <th align="center">백분율</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025">Locating Bacterial Flagellar Motors</a></td>
+      <td align="center">Computer Vision, 3D Object Detection</td>
+      <td align="center">318 / 1136</td>
+      <td align="center">Top 28.0%</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2">AI Mathematical Olympiad</a></td>
+      <td align="center">NLP, Mathematical Reasoning</td>
+      <td align="center">645 / 2212</td>
+      <td align="center">Top 29.2%</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants">Game-Playing Strength of MCTS Variants</a></td>
+      <td align="center">Reinforcement Learning, Predictive Modeling</td>
+      <td align="center">1148 / 1608</td>
+      <td align="center">Top 71.4%</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+
 <br>
 
 <div align="center">
