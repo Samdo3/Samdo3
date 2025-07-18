@@ -61,7 +61,7 @@
       <td align="center"><a href="https://dacon.io/competitions/official/236460/codeshare/12330">코드 보기</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">Python 기업 성공 확률 예측</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">기업 성공 확률 예측</a></td>
       <td align="center">정형, 회귀</td>
       <td align="center"><b>8 / 952</b></td>
       <td align="center"><b>Top 0.84%</b></td>
