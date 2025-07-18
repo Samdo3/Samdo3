@@ -34,51 +34,51 @@
 </div>
 
 <details open>
-<summary><strong>✅ 데이콘 완료된 대회 (Completed Competitions)</strong></summary>
+<summary><strong>✅ 데이콘 완료된 대회 (Dacon Completed)</strong></summary>
 <table width="100%">
   <thead>
     <tr>
+      <th align="center">기간</th>
       <th align="center">대회명</th>
       <th align="center">분야</th>
       <th align="center">성적 (순위/참가자)</th>
-      <th align="center">백분율</th>
       <th align="center">코드 공유</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center">2025.05 ~ 2025.06</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236489/overview/description">문맥 기반 문장 순서 예측</a></td>
       <td align="center">NLP, LLM</td>
       <td align="center"><b>4 / 204</b></td>
-      <td align="center"><b>Top 1.96%</b></td>
       <td align="center"><a href="https://dacon.io/competitions/official/236489/codeshare/12508">코드 보기</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236460/overview/description">신용카드 고객 세그먼트 분류</a></td>
-      <td align="center">정형, 분류</td>
-      <td align="center"><b>8 / 236</b></td>
-      <td align="center"><b>Top 3.38%</b></td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236460/codeshare/12330">코드 보기</a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">기업 성공 확률 예측</a></td>
-      <td align="center">정형, 회귀</td>
-      <td align="center"><b>8 / 952</b></td>
-      <td align="center"><b>Top 0.84%</b></td>
-      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">코드 보기</a></td>
-    </tr>
-    <tr>
+      <td align="center">2025.05 ~ 2025.06</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">HAI(하이)! - Hecto AI Challenge</a></td>
       <td align="center">비전, 분류</td>
       <td align="center">44 / 748</td>
-      <td align="center">Top 5.88%</td>
       <td align="center">-</td>
     </tr>
     <tr>
+      <td align="center">2025.04 ~ 2025.05</td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">Python 기업 성공 확률 예측</a></td>
+      <td align="center">정형, 회귀</td>
+      <td align="center"><b>8 / 952</b></td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">코드 보기</a></td>
+    </tr>
+    <tr>
+      <td align="center">2025.03 ~ 2025.04</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236460/overview/description">신용카드 고객 세그먼트 분류</a></td>
+      <td align="center">정형, 분류</td>
+      <td align="center"><b>8 / 236</b></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236460/codeshare/12330">코드 보기</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024.11 ~ 2024.12</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236423/overview/description">제4회 K-water AI 경진대회</a></td>
       <td align="center">시계열, 이상탐지</td>
       <td align="center">115 / 486</td>
-      <td align="center">Top 23.6%</td>
       <td align="center">-</td>
     </tr>
   </tbody>
@@ -86,10 +86,11 @@
 </details>
 
 <details>
-<summary><strong>⏳ 진행 중인 대회 (Ongoing Competitions)</strong></summary>
+<summary><strong>⏳ 데이콘 진행 중인 대회 (Dacon Ongoing)</strong></summary>
 <table width="100%">
   <thead>
     <tr>
+      <th align="center">기간</th>
       <th align="center">대회명</th>
       <th align="center">분야</th>
       <th align="center">현재 순위 (순위/참가자)</th>
@@ -97,24 +98,28 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236518/overview/description">Boost up AI 2025 : 신약 개발</a></td>
-      <td align="center">정형, 회귀, 바이오</td>
-      <td align="center"><b>5 / 739</b></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236526/overview/description">데이콘 Basic 스트레스 지수 예측</a></td>
-      <td align="center">정형, 회귀</td>
-      <td align="center">14 / 221</td>
+      <td align="center">2025.07 ~ 2025.08</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236531/overview/description">2025 전력사용량 예측</a></td>
+      <td align="center">시계열, 에너지</td>
+      <td align="center">109 / 269</td>
     </tr>
      <tr>
+      <td align="center">2025.07 ~ 2025.08</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236530/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발</a></td>
       <td align="center">정형, 회귀, 바이오</td>
       <td align="center">60 / 257</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/official/236531/overview/description">2025 전력사용량 예측</a></td>
-      <td align="center">시계열, 에너지</td>
-      <td align="center">109 / 269</td>
+      <td align="center">2025.07 ~ 2025.08</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236526/overview/description">데이콘 Basic 스트레스 지수 예측</a></td>
+      <td align="center">정형, 회귀</td>
+      <td align="center">14 / 221</td>
+    </tr>
+    <tr>
+      <td align="center">2025.06 ~ 2025.07</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236518/overview/description">Boost up AI 2025 : 신약 개발</a></td>
+      <td align="center">정형, 회귀, 바이오</td>
+      <td align="center"><b>5 / 739</b></td>
     </tr>
   </tbody>
 </table>
@@ -125,36 +130,34 @@
 <table width="100%">
   <thead>
     <tr>
+      <th align="center">기간</th>
       <th align="center">대회명</th>
       <th align="center">분야</th>
       <th align="center">성적 (순위/참가팀)</th>
-      <th align="center">백분율</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center">2025.03 ~ 2025.06</td>
       <td align="center"><a href="https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025">Locating Bacterial Flagellar Motors</a></td>
       <td align="center">Computer Vision, 3D Object Detection</td>
       <td align="center">318 / 1136</td>
-      <td align="center">Top 28.0%</td>
     </tr>
     <tr>
+      <td align="center">2024.10 ~ 2025.04</td>
       <td align="center"><a href="https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2">AI Mathematical Olympiad</a></td>
       <td align="center">NLP, Mathematical Reasoning</td>
       <td align="center">645 / 2212</td>
-      <td align="center">Top 29.2%</td>
     </tr>
     <tr>
+      <td align="center">2024.09 ~ 2024.12</td>
       <td align="center"><a href="https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants">Game-Playing Strength of MCTS Variants</a></td>
       <td align="center">Reinforcement Learning, Predictive Modeling</td>
       <td align="center">1148 / 1608</td>
-      <td align="center">Top 71.4%</td>
     </tr>
   </tbody>
 </table>
 </details>
-
-
 <br>
 
 <div align="center">
