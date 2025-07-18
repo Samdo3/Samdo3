@@ -8,12 +8,12 @@
 
   <table style="width: 80%; border: none; margin: auto;">
     <tr style="border: none;">
-      <td style="width: 50%; text-align: center; border: none;">
+      <td style="width: 50%; text-align: center; border: none;" align="center">
         <a href="https://dacon.io/myprofile/516971/competition">
-          <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="100" alt="Gold Tier"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
         </a>
         <br>
-        <strong>Overall Rank: 131</strong> <br> (Top 0.1%)
+        <strong>Overall Rank: 131 of 135,189</strong> <br> (Top 0.41%)
       </td>
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
@@ -39,9 +39,10 @@
   <thead>
     <tr>
       <th align="center">대회명</th>
-      <th align-="center">분야</th>
+      <th align="center">분야</th>
       <th align="center">성적 (순위/참가자)</th>
       <th align="center">백분율</th>
+      <th align="center">코드 공유</th>
     </tr>
   </thead>
   <tbody>
@@ -50,30 +51,35 @@
       <td align="center">NLP, LLM</td>
       <td align="center"><b>4 / 204</b></td>
       <td align="center"><b>Top 1.96%</b></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236489/codeshare/12508">코드 보기</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://dacon.io/competitions/official/236460/overview/description">신용카드 고객 세그먼트 분류</a></td>
       <td align="center">정형, 분류</td>
       <td align="center"><b>8 / 236</b></td>
       <td align="center"><b>Top 3.38%</b></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236460/codeshare/12330">코드 보기</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">기업 성공 확률 예측</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">Python 기업 성공 확률 예측</a></td>
       <td align="center">정형, 회귀</td>
       <td align="center"><b>8 / 952</b></td>
       <td align="center"><b>Top 0.84%</b></td>
+      <td align="center"><a href="https://dacon.io/competitions/open/236475/codeshare/12404">코드 보기</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">HAI(하이)! - Hecto AI Challenge</a></td>
       <td align="center">비전, 분류</td>
       <td align="center">44 / 748</td>
       <td align="center">Top 5.88%</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center"><a href="https://dacon.io/competitions/official/236423/overview/description">제4회 K-water AI 경진대회</a></td>
       <td align="center">시계열, 이상탐지</td>
       <td align="center">115 / 486</td>
       <td align="center">Top 23.6%</td>
+      <td align="center">-</td>
     </tr>
   </tbody>
 </table>
