@@ -72,12 +72,15 @@
 
 <div align="center">
   <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">📬 Contact</h2>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/clcleh123@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>   
-  <a href="https://samdo3.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <p>
+    <a href="mailto:clcleh123@gmail.com"><img src="https://img.shields.io/badge/clcleh123@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="https://samdo3.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  </p>
 </div>
+<br>
 
 <div align="center">
-  <img src="https://github.com/Samdo3/Samdo3/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Samdo3/Samdo3/output/github-contribution-grid-snake.svg" alt="snake contribution grid" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Samdo3&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
 </div>
