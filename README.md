@@ -20,7 +20,7 @@
         <p>
           🏅 <strong>Top 4% Finishes: 2 times</strong><br>
           🎖️ <strong>Top 10% Finishes: 1 time</strong><br>
-          👥 <strong>Team Competitions: 4 times</strong><br>
+          👥 <strong>Team Competitions: 7 times</strong><br>
         </p>
       </td>
     </tr>
