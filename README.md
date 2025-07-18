@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h3><a href="https://github.com/Samdo3/Immigration_support_Chatbot">이민자를 위한 한국 법률 번역 챗봇</a></h3>
+  <h3><a href="https://github.com/Samdo3/Immigration_support_Chatbot">이민자를 위한 한국 법률 번역 챗봇</a> (2024.12)</h3>
   <p>Fine-tuning과 RAG 기술을 접목하여 한국 법률 정보를 다국어로 제공하는 AI 챗봇</p>
   <p>
     <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=azure-functions&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <h3><a href="https://github.com/MSAI3rdTeam5/FootTrafficReport">CV 기반 유동인구 분석 및 리포팅 시스템</a></h3>
+  <h3><a href="https://github.com/MSAI3rdTeam5/FootTrafficReport">CV 기반 유동인구 분석 및 리포팅 시스템</a> (2025.02)</h3>
   <p>YOLO 모델로 유동인구를 감지하고, LLM을 통해 분석 보고서 및 대시보드를 생성하는 풀스택 프로젝트</p>
   <p>
     <b>Frontend:</b> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <h3><a href="https://github.com/Samdo3/StockPriceForecast_Regression_ML">회귀 모델 기반 주가 예측 웹 서비스</a></h3>
+  <h3><a href="https://github.com/Samdo3/StockPriceForecast_Regression_ML">회귀 모델 기반 주가 예측 웹 서비스</a> (2024.11)</h3>
   <p>다양한 회귀 모델(LightGBM 등)을 사용하여 주가를 예측하고 Gradio로 시각화하는 머신러닝 프로젝트</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <h3><a href="https://github.com/Samdo3/KU_Sejong_Navigator">Mapbox 기반 교내 길찾기 네비게이터</a></h3>
+  <h3><a href="https://github.com/Samdo3/KU_Sejong_Navigator">Mapbox 기반 교내 길찾기 네비게이터</a> (2023.11)</h3>
   <p>Flutter와 Mapbox SDK를 활용하여 제작한 교내 길찾기 및 시설 안내 모바일 애플리케이션</p>
   <p>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Provider-212121?style=for-the-badge&logo=google&logoColor=white"/>
     <img src="https://img.shields.io/badge/GetX-7B1FA2?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 </div>
 <br>
