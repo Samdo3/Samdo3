@@ -10,7 +10,7 @@
     <tr style="border: none;">
       <td style="width: 50%; text-align: center; border: none;">
         <a href="https://dacon.io/myprofile/516971/competition">
-          <img src="https://www.kaggle.com/static/images/medals/competitions/gold-small.png" width="100" alt="Gold Tier"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="100" alt="Gold Tier"/>
         </a>
         <br>
         <strong>Overall Rank: 131</strong> <br> (Top 0.1%)
