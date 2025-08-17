@@ -18,7 +18,7 @@
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
         <p>
-          🏅 <strong>Top 4% Finishes: 2 times</strong><br>
+          🏅 <strong>Top 4% Finishes: 3 times</strong><br>
           🎖️ <strong>Top 10% Finishes: 1 time</strong><br>
           👥 <strong>Team Competitions: 13 times</strong><br>
         </p>
