@@ -13,7 +13,7 @@
           <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
         </a>
         <br>
-        <strong>Overall Rank: 131 of 135,189</strong> <br> (Top 0.41%)
+        <strong>Overall Rank: 131 of 135,189</strong> <br> (Top 0.1%)
       </td>
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
