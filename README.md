@@ -58,7 +58,7 @@
       <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">HAI(하이)! - Hecto AI Challenge</a></td>
       <td align="center">비전, 분류</td>
       <td align="center">44 / 748</td>
-      <td align="center">-</td>
+      <td align="center"><a href="https://github.com/Samdo3/hecto-car-classification-2025">코드 보기</a></td>
     </tr>
     <tr>
       <td align="center">2025.04 ~ 2025.05</td>
