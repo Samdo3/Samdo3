@@ -54,6 +54,13 @@
       <td align="center"><a href="https://dacon.io/competitions/official/236489/codeshare/12508">코드 보기</a></td>
     </tr>
     <tr>
+      <td align="center">2025.07 ~ 2025.08</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236489/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회</a></td>
+      <td align="center">정형, 회귀, 바이오, 신약개발</td>
+      <td align="center"><b>20 / 1103</b></td>
+      <td align="center"><a href="">-</a></td>
+    </tr>
+    <tr>
       <td align="center">2025.05 ~ 2025.06</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236493/overview/description">HAI(하이)! - Hecto AI Challenge</a></td>
       <td align="center">비전, 분류</td>
@@ -99,27 +106,9 @@
   <tbody>
     <tr>
       <td align="center">2025.07 ~ 2025.08</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236531/overview/description">2025 전력사용량 예측</a></td>
-      <td align="center">시계열, 에너지</td>
-      <td align="center">109 / 269</td>
-    </tr>
-     <tr>
-      <td align="center">2025.07 ~ 2025.08</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236530/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발</a></td>
-      <td align="center">정형, 회귀, 바이오</td>
-      <td align="center">60 / 257</td>
-    </tr>
-    <tr>
-      <td align="center">2025.07 ~ 2025.08</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236526/overview/description">데이콘 Basic 스트레스 지수 예측</a></td>
       <td align="center">정형, 회귀</td>
       <td align="center">14 / 221</td>
-    </tr>
-    <tr>
-      <td align="center">2025.06 ~ 2025.07</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236518/overview/description">Boost up AI 2025 : 신약 개발</a></td>
-      <td align="center">정형, 회귀, 바이오</td>
-      <td align="center"><b>5 / 739</b></td>
     </tr>
   </tbody>
 </table>
