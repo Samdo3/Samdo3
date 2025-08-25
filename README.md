@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td align="center">2025.07 ~ 2025.08</td>
-      <td align="center"><a href="https://dacon.io/competitions/official/236489/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회</a></td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236530/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회</a></td>
       <td align="center">정형, 회귀, 바이오, 신약개발</td>
       <td align="center"><b>20 / 1103</b></td>
       <td align="center"><a href="">-</a></td>
