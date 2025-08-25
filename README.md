@@ -58,7 +58,7 @@
       <td align="center"><a href="https://dacon.io/competitions/official/236530/overview/description">Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회</a></td>
       <td align="center">정형, 회귀, 바이오, 신약개발</td>
       <td align="center"><b>20 / 1103</b></td>
-      <td align="center"><a href="">-</a></td>
+      <td align="center"><a href="https://github.com/Samdo3/MAP3K5_JumpAI2025_Competition">코드 보기</a></td>
     </tr>
     <tr>
       <td align="center">2025.05 ~ 2025.06</td>
