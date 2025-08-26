@@ -182,6 +182,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
     <br>
     <b>AI Models:</b> <img src="https://img.shields.io/badge/YOLO-4B0082?style=flat-square&logo=yolo&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_(GPT)-412991?style=flat-square&logo=openai&logoColor=white"/>
   </p>
+  <img src="https://github.com/MSAI3rdTeam5/FootTrafficReport/blob/main/images/%EA%B8%B0%EB%85%90%EC%82%AC%EC%A7%84.png" alt="MS Project 3rd" height="49%"/>
   <hr>
 </div>
 
@@ -196,6 +197,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </p>
+  <img src="https://github.com/user-attachments/assets/f8a6e725-e7c0-4672-81e4-5b2d237cf030" alt="MS Project 2nd" height="49%"/>
   <hr>
 </div>
 
