@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=SeongBeen's%20GitHub&animation=fadeIn&fontSize=50&fontColor=ffffff" />
 </a>
 
+<div align="left">
+  <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">Readme 포트폴리오</h2>
 안녕하세요. AI Engineer에 도전하고 있는 신입 개발자 박성빈입니다.
    
 저는 AI Engineer가 되기 위해 컴퓨터 학과 학사를 졸업 후 AI 관련 교육을 이수하고, Dacon, Kaggle 같은 AI 경진 대회에 꾸준히 도전해왔습니다.   
@@ -12,7 +14,9 @@ Runpod 기반 Linux 환경에서 고성능 GPU를 지속적으로 활용했고, 
 
 AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙GIT을 통한 협업, FastAPI/PostgreSQL 기반 백엔드 구축, Docker 기반 배포 환경 구성 등 다양한 툴 활용 능력을 통해 다수의 AI 프로젝트를 진행했었습니다.
 
-
+( 상세한 코드 설명, 프로젝트 이미지는 아래의 하이퍼링크에 접속해주시길 바랍니다. )
+</div>
+<br>
 
 <div align="center">
   <h2 style="border-bottom: 2px solid #2391d9; display: inline-block; padding-bottom: 5px;">🏆 Data Science Competitions</h2>
