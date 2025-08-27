@@ -212,6 +212,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
     <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   </p>
+  <img alt="image" src="https://github.com/user-attachments/assets/e817c8c3-8971-4d5f-b642-74eafe6a4f47" height="49%" />
   <hr>
 </div>
 
@@ -227,6 +228,8 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
+  <img alt="image" src="https://github.com/user-attachments/assets/cba3d133-aefc-41ca-aa17-293321b7d1d8" height="49%"/>
+
 </div>
 <br>
 
