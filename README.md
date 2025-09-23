@@ -29,7 +29,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
           <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
         </a>
         <br>
-        <strong>Overall Rank: 131 of 135,189</strong> <br> (Top 0.1%)
+        <strong>Overall Rank: 75 of 142,645</strong> <br> (Top 0.22%)
       </td>
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
@@ -62,6 +62,13 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td align="center">2025.08 ~ 2025.09</td>
+      <td align="center"><a href="https://dacon.io/competitions/official/236577/overview/description">2025 자동차 데이터 분석 경진대회: GPT를 활용한 뉴스클리핑</a></td>
+      <td align="center">프롬프트 엔지니어링, 뉴스클리핑, AI Agent</td>
+      <td align="center"><b>3 / 1,311</b></td>
+      <td align="center"><a href="">-</a></td>
+    </tr>
     <tr>
       <td align="center">2025.05 ~ 2025.06</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236489/overview/description">문맥 기반 문장 순서 예측</a></td>
