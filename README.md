@@ -67,7 +67,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
       <td align="center">2025.08 ~ 2025.09</td>
       <td align="center"><a href="https://dacon.io/competitions/official/236577/overview/description">2025 자동차 데이터 분석 경진대회: GPT를 활용한 뉴스클리핑</a></td>
       <td align="center">프롬프트 엔지니어링, 뉴스클리핑, AI Agent</td>
-      <td align="center"><b>1 / 1316 (우승) </b></td>
+      <td align="center"><b>1 / 1316(우승)</b></td>
       <td align="center"><a href="https://dacon.io/competitions/official/236577/talkboard/415432?page=1&dtype=recent">수상자 인터뷰</a></td>
     </tr>
     <tr>
