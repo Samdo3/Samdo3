@@ -29,7 +29,7 @@ AI 관련 교육에서는 Azure 클라우드 활용 능력, Jira∙Confluence∙
           <img src="https://cdn-icons-png.flaticon.com/512/179/179249.png" width="80" alt="Gold Tier"/>
         </a>
         <br>
-        <strong>Overall Rank: 75 of 142,645</strong> <br> (Top 0.22%)
+        <strong>Overall Rank: 45 of 142,645</strong> <br> (Top 0.13%)
       </td>
       <td style="width: 50%; text-align: left; border: none; padding-left: 20px;">
         <h3>Key Achievements</h3>
